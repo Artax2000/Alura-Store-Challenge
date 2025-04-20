@@ -2,8 +2,6 @@
 
 ### Descripción general
 
-![Ingreso totales por tienda](imagen/ingreso_total_por_tienda.png)
-
 Este proyecto nace de una actividad denominada challenge, la cual forma parte del programa educativo "Oracle Next Eductaion" impartido por Alura Latam.
 Se presenta un caso en el que Sr. Juan necesita saber que tienda (de cuatro) tiene el menor rendimiento para poder venderla, y así invertir en otro negocio.
 
@@ -14,6 +12,9 @@ Para este análisis nos entregaron cuatro data set con información relevante de
 * Calificación promedio de la tienda.
 * Productos más y menos vendidos.
 * Envío promedio por tienda.
+
+Una muestra de las gráficas: ![Ingreso totales por tienda](imagen/ingreso_total_por_tienda.png)
+  
 
 ### El análisis se realizó de la siguinete manera:
 
