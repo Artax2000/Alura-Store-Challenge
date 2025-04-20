@@ -2,7 +2,7 @@
 
 ### Descripción general
 
-![Ingreso totales por tienda](https://github.com/Artax2000/Alura-Store-Challenge/tree/main/imagesimages\ingreso total por tienda.png)
+![Ingreso totales por tienda](images/ingreso_total_por_tienda.png)
 
 Este proyecto nace de una actividad denominada challenge, la cual forma parte del programa educativo "Oracle Next Eductaion" impartido por Alura Latam.
 Se presenta un caso en el que Sr. Juan necesita saber que tienda (de cuatro) tiene el menor rendimiento para poder venderla, y así invertir en otro negocio.
